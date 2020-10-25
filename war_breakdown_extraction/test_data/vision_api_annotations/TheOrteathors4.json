@@ -1,0 +1,839 @@
+[
+  {
+    "description": "JOIN ALLIANCE\n6\nTHE ORTEATHORS\nY 923\nIf you are inactive for 3 days, you will be kicked.\nCOLLECTION POWER\nMEMBERS 24/24\nCOLLECTION POWER\nxBryanClx\n75 Member\nHispanos\n4,667,571\nCOLLECTION POWER\nswan\n75 Member\n4,540,454\nCOLLECTION POWER\nBIOHAZARD\n75 Member\n4,509,608\nCOLLECTION POWER\nkraken sp\n75 Member\n3.719,484\nCOLLECTION POWER\nWAR TIME\n9:00PM - Mon, Wed, Fri\n;]\\/VAnDrei\u017fta 1\n75 Member\n3,064,496\nCOLLECTION POWER\nZOMBIE-GALLINA\n75 Member\n3,011,067\n>> [PLUMBERSBACK ]has ranked up Black Bolt to 7 Stars!\n",
+    "bounds": [
+      134,
+      2027,
+      16,
+      1527
+    ]
+  },
+  {
+    "description": "JOIN",
+    "bounds": [
+      206,
+      293,
+      28,
+      76
+    ]
+  },
+  {
+    "description": "ALLIANCE",
+    "bounds": [
+      312,
+      526,
+      28,
+      76
+    ]
+  },
+  {
+    "description": "6",
+    "bounds": [
+      1936,
+      2027,
+      16,
+      86
+    ]
+  },
+  {
+    "description": "THE",
+    "bounds": [
+      134,
+      214,
+      137,
+      183
+    ]
+  },
+  {
+    "description": "ORTEATHORS",
+    "bounds": [
+      224,
+      509,
+      137,
+      183
+    ]
+  },
+  {
+    "description": "Y",
+    "bounds": [
+      275,
+      284,
+      191,
+      224
+    ]
+  },
+  {
+    "description": "923",
+    "bounds": [
+      303,
+      366,
+      191,
+      224
+    ]
+  },
+  {
+    "description": "If",
+    "bounds": [
+      964,
+      981,
+      166,
+      215
+    ]
+  },
+  {
+    "description": "you",
+    "bounds": [
+      992,
+      1041,
+      166,
+      215
+    ]
+  },
+  {
+    "description": "are",
+    "bounds": [
+      1054,
+      1099,
+      166,
+      215
+    ]
+  },
+  {
+    "description": "inactive",
+    "bounds": [
+      1110,
+      1225,
+      166,
+      215
+    ]
+  },
+  {
+    "description": "for",
+    "bounds": [
+      1236,
+      1277,
+      166,
+      215
+    ]
+  },
+  {
+    "description": "3",
+    "bounds": [
+      1288,
+      1303,
+      166,
+      215
+    ]
+  },
+  {
+    "description": "days",
+    "bounds": [
+      1316,
+      1383,
+      166,
+      215
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      1388,
+      1391,
+      166,
+      215
+    ]
+  },
+  {
+    "description": "you",
+    "bounds": [
+      1402,
+      1451,
+      166,
+      215
+    ]
+  },
+  {
+    "description": "will",
+    "bounds": [
+      1462,
+      1513,
+      166,
+      215
+    ]
+  },
+  {
+    "description": "be",
+    "bounds": [
+      1526,
+      1557,
+      166,
+      215
+    ]
+  },
+  {
+    "description": "kicked",
+    "bounds": [
+      1570,
+      1666,
+      166,
+      215
+    ]
+  },
+  {
+    "description": ".",
+    "bounds": [
+      1665,
+      1674,
+      166,
+      215
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      680,
+      851,
+      314,
+      353
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      856,
+      959,
+      314,
+      353
+    ]
+  },
+  {
+    "description": "MEMBERS",
+    "bounds": [
+      1649,
+      1855,
+      317,
+      364
+    ]
+  },
+  {
+    "description": "24/24",
+    "bounds": [
+      1878,
+      2002,
+      317,
+      364
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      1683,
+      1848,
+      426,
+      463
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      1853,
+      1952,
+      426,
+      462
+    ]
+  },
+  {
+    "description": "xBryanClx",
+    "bounds": [
+      839,
+      1063,
+      436,
+      495
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      839,
+      881,
+      501,
+      540
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      896,
+      1020,
+      500,
+      541
+    ]
+  },
+  {
+    "description": "Hispanos",
+    "bounds": [
+      258,
+      378,
+      493,
+      534
+    ]
+  },
+  {
+    "description": "4,667,571",
+    "bounds": [
+      1828,
+      1953,
+      514,
+      549
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      1688,
+      1848,
+      593,
+      631
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      1855,
+      1949,
+      594,
+      631
+    ]
+  },
+  {
+    "description": "swan",
+    "bounds": [
+      840,
+      953,
+      614,
+      649
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      839,
+      881,
+      667,
+      705
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      896,
+      1020,
+      667,
+      705
+    ]
+  },
+  {
+    "description": "4,540,454",
+    "bounds": [
+      1814,
+      1953,
+      680,
+      715
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      1687,
+      1845,
+      759,
+      794
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      1856,
+      1948,
+      759,
+      794
+    ]
+  },
+  {
+    "description": "BIOHAZARD",
+    "bounds": [
+      840,
+      1075,
+      771,
+      816
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      838,
+      881,
+      830,
+      871
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      896,
+      1019,
+      830,
+      871
+    ]
+  },
+  {
+    "description": "4,509,608",
+    "bounds": [
+      1814,
+      1954,
+      846,
+      884
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      1685,
+      1846,
+      925,
+      958
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      1856,
+      1947,
+      925,
+      958
+    ]
+  },
+  {
+    "description": "kraken",
+    "bounds": [
+      840,
+      983,
+      932,
+      989
+    ]
+  },
+  {
+    "description": "sp",
+    "bounds": [
+      994,
+      1043,
+      936,
+      990
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      840,
+      881,
+      994,
+      1035
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      896,
+      1019,
+      994,
+      1035
+    ]
+  },
+  {
+    "description": "3.719,484",
+    "bounds": [
+      1824,
+      1953,
+      1007,
+      1044
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      1688,
+      1846,
+      1088,
+      1124
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      1855,
+      1948,
+      1089,
+      1124
+    ]
+  },
+  {
+    "description": "WAR",
+    "bounds": [
+      255,
+      317,
+      1119,
+      1155
+    ]
+  },
+  {
+    "description": "TIME",
+    "bounds": [
+      325,
+      388,
+      1119,
+      1155
+    ]
+  },
+  {
+    "description": "9:00",
+    "bounds": [
+      150,
+      215,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": "PM",
+    "bounds": [
+      222,
+      265,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": "-",
+    "bounds": [
+      274,
+      283,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": "Mon",
+    "bounds": [
+      292,
+      348,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      351,
+      359,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": "Wed",
+    "bounds": [
+      374,
+      429,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      433,
+      441,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": "Fri",
+    "bounds": [
+      452,
+      493,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": ";",
+    "bounds": [
+      837,
+      852,
+      1095,
+      1152
+    ]
+  },
+  {
+    "description": "]",
+    "bounds": [
+      858,
+      872,
+      1095,
+      1152
+    ]
+  },
+  {
+    "description": "\\",
+    "bounds": [
+      882,
+      895,
+      1095,
+      1152
+    ]
+  },
+  {
+    "description": "/",
+    "bounds": [
+      900,
+      914,
+      1095,
+      1152
+    ]
+  },
+  {
+    "description": "VAnDrei\u017fta",
+    "bounds": [
+      925,
+      1164,
+      1092,
+      1152
+    ]
+  },
+  {
+    "description": "1",
+    "bounds": [
+      1173,
+      1238,
+      1093,
+      1150
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      839,
+      881,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      896,
+      1020,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": "3,064,496",
+    "bounds": [
+      1812,
+      1954,
+      1175,
+      1212
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      1687,
+      1844,
+      1254,
+      1290
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      1857,
+      1947,
+      1254,
+      1290
+    ]
+  },
+  {
+    "description": "ZOMBIE",
+    "bounds": [
+      839,
+      992,
+      1267,
+      1312
+    ]
+  },
+  {
+    "description": "-",
+    "bounds": [
+      1004,
+      1015,
+      1267,
+      1312
+    ]
+  },
+  {
+    "description": "GALLINA",
+    "bounds": [
+      1018,
+      1184,
+      1267,
+      1312
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      839,
+      881,
+      1327,
+      1364
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      896,
+      1020,
+      1326,
+      1365
+    ]
+  },
+  {
+    "description": "3,011,067",
+    "bounds": [
+      1830,
+      1955,
+      1340,
+      1375
+    ]
+  },
+  {
+    "description": ">>",
+    "bounds": [
+      240,
+      272,
+      1484,
+      1527
+    ]
+  },
+  {
+    "description": "[",
+    "bounds": [
+      308,
+      318,
+      1484,
+      1527
+    ]
+  },
+  {
+    "description": "PLUMBERSBACK",
+    "bounds": [
+      323,
+      559,
+      1484,
+      1527
+    ]
+  },
+  {
+    "description": "]",
+    "bounds": [
+      572,
+      577,
+      1484,
+      1527
+    ]
+  },
+  {
+    "description": "has",
+    "bounds": [
+      590,
+      639,
+      1484,
+      1527
+    ]
+  },
+  {
+    "description": "ranked",
+    "bounds": [
+      652,
+      751,
+      1484,
+      1527
+    ]
+  },
+  {
+    "description": "up",
+    "bounds": [
+      764,
+      797,
+      1484,
+      1527
+    ]
+  },
+  {
+    "description": "Black",
+    "bounds": [
+      810,
+      885,
+      1484,
+      1527
+    ]
+  },
+  {
+    "description": "Bolt",
+    "bounds": [
+      898,
+      953,
+      1484,
+      1527
+    ]
+  },
+  {
+    "description": "to",
+    "bounds": [
+      964,
+      991,
+      1484,
+      1527
+    ]
+  },
+  {
+    "description": "7",
+    "bounds": [
+      1004,
+      1015,
+      1484,
+      1527
+    ]
+  },
+  {
+    "description": "Stars",
+    "bounds": [
+      1028,
+      1103,
+      1484,
+      1527
+    ]
+  },
+  {
+    "description": "!",
+    "bounds": [
+      1109,
+      1119,
+      1484,
+      1527
+    ]
+  }
+]

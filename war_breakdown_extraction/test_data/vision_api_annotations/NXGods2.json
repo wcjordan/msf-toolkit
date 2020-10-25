@@ -1,0 +1,803 @@
+[
+  {
+    "description": "JOIN ALLIANCE\n6\nNX GODS\nY 963\nIf you are inactive for 7 days, you will be kicked.\nCOLLECTION POWER\nMEMBERS 24/24\nK<<\nCOLLECTION POWER\nlimbs\n75 Member\nZ150.329\nCOLLECTION POWER\nTars\n75 Member\n7023,620\nCOLLECTION POWER\nGordon Cole\n75 Member\n7,011,747\nCOLLECTION POWER\nCommander ong\n75 Member\n6,980,474\nCOLLECTION POWER\nWAR TIME\n9:00PM - Mon, Wed, Fri\nBen10\n75 Member\n6,922,517\nCOLLECTION POWER\nTenglish\n75 Captain\n6,850,779\n>> [HEWHOHASNOSOUL ) launched the raid: S.T.R.I.K.E. Raid: Gamma IV.\n",
+    "bounds": [
+      150,
+      2027,
+      16,
+      1525
+    ]
+  },
+  {
+    "description": "JOIN",
+    "bounds": [
+      205,
+      290,
+      29,
+      77
+    ]
+  },
+  {
+    "description": "ALLIANCE",
+    "bounds": [
+      316,
+      525,
+      29,
+      77
+    ]
+  },
+  {
+    "description": "6",
+    "bounds": [
+      1936,
+      2027,
+      16,
+      86
+    ]
+  },
+  {
+    "description": "NX",
+    "bounds": [
+      206,
+      281,
+      134,
+      185
+    ]
+  },
+  {
+    "description": "GODS",
+    "bounds": [
+      292,
+      437,
+      134,
+      186
+    ]
+  },
+  {
+    "description": "Y",
+    "bounds": [
+      273,
+      282,
+      189,
+      221
+    ]
+  },
+  {
+    "description": "963",
+    "bounds": [
+      302,
+      366,
+      190,
+      223
+    ]
+  },
+  {
+    "description": "If",
+    "bounds": [
+      964,
+      983,
+      167,
+      215
+    ]
+  },
+  {
+    "description": "you",
+    "bounds": [
+      994,
+      1043,
+      167,
+      215
+    ]
+  },
+  {
+    "description": "are",
+    "bounds": [
+      1055,
+      1099,
+      167,
+      215
+    ]
+  },
+  {
+    "description": "inactive",
+    "bounds": [
+      1111,
+      1226,
+      166,
+      215
+    ]
+  },
+  {
+    "description": "for",
+    "bounds": [
+      1237,
+      1278,
+      166,
+      214
+    ]
+  },
+  {
+    "description": "7",
+    "bounds": [
+      1289,
+      1301,
+      166,
+      214
+    ]
+  },
+  {
+    "description": "days",
+    "bounds": [
+      1312,
+      1380,
+      166,
+      214
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      1385,
+      1388,
+      166,
+      214
+    ]
+  },
+  {
+    "description": "you",
+    "bounds": [
+      1400,
+      1449,
+      165,
+      214
+    ]
+  },
+  {
+    "description": "will",
+    "bounds": [
+      1460,
+      1510,
+      165,
+      213
+    ]
+  },
+  {
+    "description": "be",
+    "bounds": [
+      1523,
+      1554,
+      165,
+      213
+    ]
+  },
+  {
+    "description": "kicked",
+    "bounds": [
+      1566,
+      1662,
+      165,
+      213
+    ]
+  },
+  {
+    "description": ".",
+    "bounds": [
+      1660,
+      1669,
+      165,
+      213
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      680,
+      850,
+      317,
+      358
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      855,
+      959,
+      317,
+      358
+    ]
+  },
+  {
+    "description": "MEMBERS",
+    "bounds": [
+      1649,
+      1855,
+      318,
+      364
+    ]
+  },
+  {
+    "description": "24/24",
+    "bounds": [
+      1878,
+      2002,
+      318,
+      364
+    ]
+  },
+  {
+    "description": "K",
+    "bounds": [
+      309,
+      344,
+      375,
+      397
+    ]
+  },
+  {
+    "description": "<<",
+    "bounds": [
+      316,
+      355,
+      391,
+      422
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      1684,
+      1849,
+      426,
+      465
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      1854,
+      1953,
+      426,
+      465
+    ]
+  },
+  {
+    "description": "limbs",
+    "bounds": [
+      839,
+      954,
+      440,
+      498
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      838,
+      881,
+      500,
+      539
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      896,
+      1019,
+      500,
+      539
+    ]
+  },
+  {
+    "description": "Z150.329",
+    "bounds": [
+      1821,
+      1952,
+      512,
+      550
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      1687,
+      1845,
+      596,
+      631
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      1856,
+      1948,
+      596,
+      631
+    ]
+  },
+  {
+    "description": "Tars",
+    "bounds": [
+      846,
+      929,
+      610,
+      654
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      839,
+      881,
+      669,
+      708
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      896,
+      1019,
+      669,
+      708
+    ]
+  },
+  {
+    "description": "7023,620",
+    "bounds": [
+      1816,
+      1953,
+      680,
+      715
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      1688,
+      1847,
+      759,
+      796
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      1858,
+      1950,
+      760,
+      797
+    ]
+  },
+  {
+    "description": "Gordon",
+    "bounds": [
+      841,
+      986,
+      773,
+      819
+    ]
+  },
+  {
+    "description": "Cole",
+    "bounds": [
+      997,
+      1087,
+      773,
+      819
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      838,
+      881,
+      832,
+      871
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      896,
+      1019,
+      832,
+      871
+    ]
+  },
+  {
+    "description": "7,011,747",
+    "bounds": [
+      1838,
+      1955,
+      848,
+      889
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      1684,
+      1849,
+      926,
+      961
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      1854,
+      1953,
+      926,
+      961
+    ]
+  },
+  {
+    "description": "Commander",
+    "bounds": [
+      840,
+      1089,
+      932,
+      991
+    ]
+  },
+  {
+    "description": "ong",
+    "bounds": [
+      1098,
+      1173,
+      940,
+      993
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      839,
+      881,
+      999,
+      1037
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      896,
+      1020,
+      999,
+      1037
+    ]
+  },
+  {
+    "description": "6,980,474",
+    "bounds": [
+      1815,
+      1952,
+      1009,
+      1049
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      1686,
+      1848,
+      1091,
+      1126
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      1855,
+      1952,
+      1091,
+      1126
+    ]
+  },
+  {
+    "description": "WAR",
+    "bounds": [
+      255,
+      317,
+      1119,
+      1155
+    ]
+  },
+  {
+    "description": "TIME",
+    "bounds": [
+      325,
+      388,
+      1119,
+      1155
+    ]
+  },
+  {
+    "description": "9:00",
+    "bounds": [
+      150,
+      215,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": "PM",
+    "bounds": [
+      222,
+      265,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": "-",
+    "bounds": [
+      274,
+      283,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": "Mon",
+    "bounds": [
+      292,
+      348,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      351,
+      359,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": "Wed",
+    "bounds": [
+      374,
+      429,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      433,
+      441,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": "Fri",
+    "bounds": [
+      452,
+      493,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": "Ben10",
+    "bounds": [
+      839,
+      964,
+      1104,
+      1151
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      838,
+      881,
+      1162,
+      1199
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      896,
+      1019,
+      1162,
+      1200
+    ]
+  },
+  {
+    "description": "6,922,517",
+    "bounds": [
+      1823,
+      1954,
+      1174,
+      1211
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      1688,
+      1846,
+      1257,
+      1292
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      1857,
+      1949,
+      1257,
+      1292
+    ]
+  },
+  {
+    "description": "Tenglish",
+    "bounds": [
+      845,
+      1013,
+      1263,
+      1323
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      839,
+      881,
+      1324,
+      1370
+    ]
+  },
+  {
+    "description": "Captain",
+    "bounds": [
+      896,
+      1010,
+      1326,
+      1374
+    ]
+  },
+  {
+    "description": "6,850,779",
+    "bounds": [
+      1821,
+      1954,
+      1342,
+      1377
+    ]
+  },
+  {
+    "description": ">>",
+    "bounds": [
+      243,
+      272,
+      1484,
+      1525
+    ]
+  },
+  {
+    "description": "[",
+    "bounds": [
+      308,
+      313,
+      1484,
+      1525
+    ]
+  },
+  {
+    "description": "HEWHOHASNOSOUL",
+    "bounds": [
+      326,
+      603,
+      1484,
+      1525
+    ]
+  },
+  {
+    "description": ")",
+    "bounds": [
+      614,
+      621,
+      1484,
+      1525
+    ]
+  },
+  {
+    "description": "launched",
+    "bounds": [
+      634,
+      765,
+      1484,
+      1525
+    ]
+  },
+  {
+    "description": "the",
+    "bounds": [
+      776,
+      823,
+      1484,
+      1525
+    ]
+  },
+  {
+    "description": "raid",
+    "bounds": [
+      836,
+      889,
+      1484,
+      1525
+    ]
+  },
+  {
+    "description": ":",
+    "bounds": [
+      894,
+      897,
+      1484,
+      1525
+    ]
+  },
+  {
+    "description": "S.T.R.I.K.E.",
+    "bounds": [
+      908,
+      1050,
+      1484,
+      1525
+    ]
+  },
+  {
+    "description": "Raid",
+    "bounds": [
+      1060,
+      1119,
+      1484,
+      1525
+    ]
+  },
+  {
+    "description": ":",
+    "bounds": [
+      1124,
+      1127,
+      1484,
+      1525
+    ]
+  },
+  {
+    "description": "Gamma",
+    "bounds": [
+      1140,
+      1249,
+      1484,
+      1525
+    ]
+  },
+  {
+    "description": "IV",
+    "bounds": [
+      1262,
+      1285,
+      1484,
+      1525
+    ]
+  },
+  {
+    "description": ".",
+    "bounds": [
+      1290,
+      1291,
+      1484,
+      1525
+    ]
+  }
+]

@@ -1,0 +1,767 @@
+[
+  {
+    "description": "<< JOIN ALLIANCE\n\u00b0C\nThe-Black-Order\nY 968\nIf you are inactive for 3 days, you will be kicked.\nCOLLECTION POWER\nMEMBERS 24/24\nCOLLECTION POWER\nMizuMonkey\n75 Member\nLevel 80 GOO Daily Raid Keys, TOK\nStark Donation, 8 AW attack min\n3,897,151\nCOLLECTION POWER\nWAR TIME\n8:00PM - Mon, Wed, Fri\nIzode\n75 Member\n3,800,228\nCOLLECTION POWER\nGeordie Drago\n75 Member\n2,352,308\n[ DENIED ] has ranked up Namor to 7 Stars!\n",
+    "bounds": [
+      34,
+      1758,
+      10,
+      824
+    ]
+  },
+  {
+    "description": "<<",
+    "bounds": [
+      34,
+      105,
+      10,
+      67
+    ]
+  },
+  {
+    "description": "JOIN",
+    "bounds": [
+      165,
+      234,
+      10,
+      67
+    ]
+  },
+  {
+    "description": "ALLIANCE",
+    "bounds": [
+      244,
+      410,
+      10,
+      69
+    ]
+  },
+  {
+    "description": "\u00b0",
+    "bounds": [
+      1696,
+      1758,
+      12,
+      33
+    ]
+  },
+  {
+    "description": "C",
+    "bounds": [
+      1697,
+      1759,
+      45,
+      64
+    ]
+  },
+  {
+    "description": "The",
+    "bounds": [
+      139,
+      185,
+      112,
+      144
+    ]
+  },
+  {
+    "description": "-",
+    "bounds": [
+      189,
+      195,
+      112,
+      144
+    ]
+  },
+  {
+    "description": "Black",
+    "bounds": [
+      199,
+      269,
+      112,
+      144
+    ]
+  },
+  {
+    "description": "-",
+    "bounds": [
+      278,
+      284,
+      112,
+      144
+    ]
+  },
+  {
+    "description": "Order",
+    "bounds": [
+      288,
+      362,
+      112,
+      144
+    ]
+  },
+  {
+    "description": "Y",
+    "bounds": [
+      213,
+      220,
+      147,
+      174
+    ]
+  },
+  {
+    "description": "968",
+    "bounds": [
+      235,
+      283,
+      146,
+      174
+    ]
+  },
+  {
+    "description": "If",
+    "bounds": [
+      870,
+      884,
+      130,
+      169
+    ]
+  },
+  {
+    "description": "you",
+    "bounds": [
+      893,
+      931,
+      130,
+      169
+    ]
+  },
+  {
+    "description": "are",
+    "bounds": [
+      940,
+      974,
+      130,
+      169
+    ]
+  },
+  {
+    "description": "inactive",
+    "bounds": [
+      983,
+      1072,
+      130,
+      169
+    ]
+  },
+  {
+    "description": "for",
+    "bounds": [
+      1081,
+      1112,
+      130,
+      169
+    ]
+  },
+  {
+    "description": "3",
+    "bounds": [
+      1121,
+      1132,
+      130,
+      169
+    ]
+  },
+  {
+    "description": "days",
+    "bounds": [
+      1142,
+      1194,
+      130,
+      169
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      1197,
+      1200,
+      130,
+      169
+    ]
+  },
+  {
+    "description": "you",
+    "bounds": [
+      1210,
+      1248,
+      130,
+      169
+    ]
+  },
+  {
+    "description": "will",
+    "bounds": [
+      1256,
+      1295,
+      130,
+      169
+    ]
+  },
+  {
+    "description": "be",
+    "bounds": [
+      1305,
+      1329,
+      130,
+      169
+    ]
+  },
+  {
+    "description": "kicked",
+    "bounds": [
+      1338,
+      1409,
+      130,
+      169
+    ]
+  },
+  {
+    "description": ".",
+    "bounds": [
+      1414,
+      1420,
+      130,
+      169
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      649,
+      781,
+      241,
+      281
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      789,
+      866,
+      241,
+      281
+    ]
+  },
+  {
+    "description": "MEMBERS",
+    "bounds": [
+      1411,
+      1564,
+      245,
+      283
+    ]
+  },
+  {
+    "description": "24/24",
+    "bounds": [
+      1585,
+      1676,
+      244,
+      281
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      1434,
+      1559,
+      333,
+      362
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      1564,
+      1639,
+      333,
+      362
+    ]
+  },
+  {
+    "description": "MizuMonkey",
+    "bounds": [
+      774,
+      967,
+      339,
+      383
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      772,
+      805,
+      390,
+      421
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      817,
+      912,
+      390,
+      421
+    ]
+  },
+  {
+    "description": "Level",
+    "bounds": [
+      74,
+      130,
+      384,
+      417
+    ]
+  },
+  {
+    "description": "80",
+    "bounds": [
+      134,
+      163,
+      384,
+      417
+    ]
+  },
+  {
+    "description": "GOO",
+    "bounds": [
+      167,
+      210,
+      384,
+      417
+    ]
+  },
+  {
+    "description": "Daily",
+    "bounds": [
+      214,
+      265,
+      384,
+      417
+    ]
+  },
+  {
+    "description": "Raid",
+    "bounds": [
+      271,
+      318,
+      384,
+      417
+    ]
+  },
+  {
+    "description": "Keys",
+    "bounds": [
+      322,
+      374,
+      384,
+      417
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      372,
+      379,
+      384,
+      417
+    ]
+  },
+  {
+    "description": "TOK",
+    "bounds": [
+      387,
+      423,
+      384,
+      417
+    ]
+  },
+  {
+    "description": "Stark",
+    "bounds": [
+      77,
+      134,
+      415,
+      446
+    ]
+  },
+  {
+    "description": "Donation",
+    "bounds": [
+      140,
+      233,
+      415,
+      446
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      232,
+      238,
+      415,
+      446
+    ]
+  },
+  {
+    "description": "8",
+    "bounds": [
+      245,
+      260,
+      415,
+      446
+    ]
+  },
+  {
+    "description": "AW",
+    "bounds": [
+      265,
+      293,
+      415,
+      446
+    ]
+  },
+  {
+    "description": "attack",
+    "bounds": [
+      307,
+      372,
+      415,
+      446
+    ]
+  },
+  {
+    "description": "min",
+    "bounds": [
+      379,
+      417,
+      415,
+      446
+    ]
+  },
+  {
+    "description": "3,897,151",
+    "bounds": [
+      1544,
+      1640,
+      401,
+      431
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      1434,
+      1559,
+      461,
+      490
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      1564,
+      1639,
+      461,
+      490
+    ]
+  },
+  {
+    "description": "WAR",
+    "bounds": [
+      200,
+      247,
+      506,
+      534
+    ]
+  },
+  {
+    "description": "TIME",
+    "bounds": [
+      254,
+      302,
+      506,
+      534
+    ]
+  },
+  {
+    "description": "8:00",
+    "bounds": [
+      114,
+      165,
+      537,
+      568
+    ]
+  },
+  {
+    "description": "PM",
+    "bounds": [
+      170,
+      206,
+      537,
+      568
+    ]
+  },
+  {
+    "description": "-",
+    "bounds": [
+      214,
+      220,
+      537,
+      568
+    ]
+  },
+  {
+    "description": "Mon",
+    "bounds": [
+      228,
+      272,
+      537,
+      568
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      275,
+      281,
+      537,
+      568
+    ]
+  },
+  {
+    "description": "Wed",
+    "bounds": [
+      292,
+      336,
+      537,
+      568
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      338,
+      345,
+      537,
+      568
+    ]
+  },
+  {
+    "description": "Fri",
+    "bounds": [
+      354,
+      385,
+      537,
+      569
+    ]
+  },
+  {
+    "description": "Izode",
+    "bounds": [
+      774,
+      857,
+      471,
+      508
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      772,
+      805,
+      519,
+      550
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      816,
+      912,
+      519,
+      550
+    ]
+  },
+  {
+    "description": "3,800,228",
+    "bounds": [
+      1529,
+      1640,
+      530,
+      559
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      1434,
+      1559,
+      590,
+      619
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      1564,
+      1639,
+      590,
+      618
+    ]
+  },
+  {
+    "description": "Geordie",
+    "bounds": [
+      775,
+      893,
+      594,
+      637
+    ]
+  },
+  {
+    "description": "Drago",
+    "bounds": [
+      903,
+      991,
+      598,
+      641
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      772,
+      805,
+      647,
+      677
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      817,
+      912,
+      647,
+      677
+    ]
+  },
+  {
+    "description": "2,352,308",
+    "bounds": [
+      1529,
+      1640,
+      656,
+      686
+    ]
+  },
+  {
+    "description": "[",
+    "bounds": [
+      240,
+      244,
+      785,
+      824
+    ]
+  },
+  {
+    "description": "DENIED",
+    "bounds": [
+      256,
+      331,
+      785,
+      824
+    ]
+  },
+  {
+    "description": "]",
+    "bounds": [
+      343,
+      347,
+      785,
+      824
+    ]
+  },
+  {
+    "description": "has",
+    "bounds": [
+      359,
+      396,
+      785,
+      824
+    ]
+  },
+  {
+    "description": "ranked",
+    "bounds": [
+      407,
+      483,
+      785,
+      824
+    ]
+  },
+  {
+    "description": "up",
+    "bounds": [
+      494,
+      519,
+      785,
+      824
+    ]
+  },
+  {
+    "description": "Namor",
+    "bounds": [
+      531,
+      604,
+      785,
+      824
+    ]
+  },
+  {
+    "description": "to",
+    "bounds": [
+      613,
+      634,
+      785,
+      824
+    ]
+  },
+  {
+    "description": "7",
+    "bounds": [
+      644,
+      653,
+      785,
+      824
+    ]
+  },
+  {
+    "description": "Stars",
+    "bounds": [
+      663,
+      720,
+      785,
+      824
+    ]
+  },
+  {
+    "description": "!",
+    "bounds": [
+      725,
+      727,
+      785,
+      824
+    ]
+  }
+]
