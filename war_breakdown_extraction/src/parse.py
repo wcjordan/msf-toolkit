@@ -100,12 +100,15 @@ def _extract_row_text(row):
         subrow.sort(key=lambda item: item['bounds'][X_MIN_COORD])
 
     result = [
+        # Name
         ' '.join([item['description'] for item in subrows[0]]),
     ]
-    result.extend([item['description'] for item in subrows[1]])
+    # Add Rank, omit Level
+    result.append(subrows[1][1]['description'])
 
+    # CP
     # Fix up numeric issues by switching decimals to commas and Zs to 7s
-    result.append(' '.join([item['description'] for item in subrows[2]]).replace('.', ',').replace('Z', '7'))
+    result.append(' '.join([item['description'] for item in subrows[2]]).replace('Z', '7').replace('.', '').replace(',', ''))
     return result
 
 
