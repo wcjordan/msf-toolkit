@@ -3,11 +3,12 @@ import io
 import json
 from datetime import date
 
-from google.cloud import storage, vision
+from google.cloud import pubsub_v1, storage, vision
 
 from parse import parse_annotations
 from vision_api import text_detection
 
+publisher = pubsub_v1.PublisherClient()
 storage_client = storage.Client()
 vision_client = vision.ImageAnnotatorClient()
 
@@ -52,3 +53,7 @@ def extract_war_breakdown(event, context):
        content_type='text/csv',
     )
     csv_output.close()
+
+    print(f"Publishing results to: projects/flipperkid-default/topics/war_roster_results")
+    topic_name = 'projects/flipperkid-default/topics/war_roster_results'
+    publisher.publish(topic_name, output_file.encode('utf-8'))
