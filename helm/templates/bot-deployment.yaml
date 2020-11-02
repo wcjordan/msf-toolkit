@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ include "..fullname" . }}-bot
+  labels:
+    {{- include "..labels" . | nindent 4 }}
+spec:
+  selector:
+    matchLabels:
+      {{- include "..selectorLabels" . | nindent 6 }}
+  template:
+    metadata:
+      labels:
+        {{- include "..selectorLabels" . | nindent 8 }}
+    spec:
+      containers:
+        - name: {{ .Chart.Name }}-bot
+          image: "gcr.io/flipperkid-default/msf-toolkit-bot:latest"
+          imagePullPolicy: Always
