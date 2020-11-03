@@ -14,4 +14,4 @@ start:
 .PHONY: deploy
 deploy:
 	docker push gcr.io/flipperkid-default/msf-toolkit-bot:latest
-	helm upgrade msf-toolkit helm
+	helm upgrade --install msf-toolkit helm

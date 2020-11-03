@@ -12,6 +12,8 @@ spec:
     metadata:
       labels:
         {{- include "..selectorLabels" . | nindent 8 }}
+      annotations:
+        timestamp: "{{ date "20060102150405" .Release.Time }}"
     spec:
       containers:
         - name: {{ .Chart.Name }}-bot
