@@ -1,5 +1,6 @@
 import mimetypes
 import os
+import random
 import sys
 import urllib.request
 from datetime import date
@@ -58,7 +59,7 @@ def _subscribe_to_results():
 
 def _upload_attachment_to_bucket(filename, data):
     # Upload to GCP bucket
-    output_file = f"{date.today()}-{filename}"
+    output_file = f"{date.today()}-{filename}-{random.randrange(10000)}"
     print(f"Writing attachment to: war_roster_screenshots.msf.flipperkid.com/{output_file}")
     bucket = storage_client.get_bucket('war_roster_screenshots.msf.flipperkid.com')
     blob = bucket.blob(output_file)
