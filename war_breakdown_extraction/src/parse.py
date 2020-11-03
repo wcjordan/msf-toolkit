@@ -7,12 +7,15 @@ Y_MIN_COORD = 2
 Y_MAX_COORD = 3
 PIXEL_MARGIN = 20
 ROW_MARGIN = 10
-SUBROW_MARGIN = 5
 
 
 def _load_json_response(filename):
     with open(filename) as file:
         return json.load(file)
+
+
+def _y_center_of_text(bounds):
+    return (bounds[Y_MIN_COORD] + bounds[Y_MAX_COORD]) / 2
 
 
 def convert_annotation(annotation):
@@ -36,9 +39,12 @@ def convert_annotation(annotation):
 
 
 def _extract_row_bounds(power_bounds):
-    # Find the farthest to the left bounding boxes
-    # and drop any matches which are more than PIXEL_MARGIN out of alignment
-    # end up w/ the start Y coordinate for each row
+    '''
+    Find the start X coord of each row
+    First extract the farthest to the left bounding boxes for the Collection Power text
+    Then drop any matches which are more than PIXEL_MARGIN beyond that text
+    Use the remaining bounding boxes to determine the start and end Y coordinate for each row
+    '''
     max_x = max([coords[X_MAX_COORD] for coords in power_bounds])
     row_start_ys = [bound[Y_MIN_COORD] for bound in power_bounds if bound[X_MAX_COORD] > max_x - PIXEL_MARGIN]
     row_start_ys.sort()
@@ -57,6 +63,9 @@ def _extract_row_bounds(power_bounds):
 
 
 def _group_rows(all_row_bounds, annotations):
+    '''
+    Group the annotations according to the row bounds they fall within
+    '''
     row_groups = [[] for idx in range(len(all_row_bounds))]
     for annotation in annotations:
         for row_idx, row_bounds in enumerate(all_row_bounds):
@@ -67,48 +76,54 @@ def _group_rows(all_row_bounds, annotations):
     return row_groups
 
 
-def _center_of_text(bounds):
-    return (bounds[Y_MIN_COORD] + bounds[Y_MAX_COORD]) / 2
+def _partition_left_right(row, min_x_bound, max_x_bound):
+    x_start_divider = (min_x_bound + max_x_bound) / 2
+    left_text = [item for item in row if item['bounds'][X_MIN_COORD] < x_start_divider]
+    right_text = [item for item in row if item['bounds'][X_MIN_COORD] >= x_start_divider]
+    assert len(right_text) == 1
+
+    return left_text, right_text
 
 
-def _extract_row_text(row):
-    y_center = [_center_of_text(item['bounds']) for item in row]
-    y_center.sort()
+def _extract_row_text(row, min_x_bound, max_x_bound):
+    '''
+    Extract the pertinent data from the row grouping
+    First split the annotations into the left side (name, rank, level
+    and the right side (collection power)
+    '''
+    left_text, right_text = _partition_left_right(row, min_x_bound, max_x_bound)
 
-    subrow_start = None
-    subrows_ys = []
-    for pos in y_center:
-        if subrow_start is None:
-            subrow_start = pos
-        elif pos - subrow_start > SUBROW_MARGIN:
-            subrows_ys.append((subrow_start, pos))
-            subrow_start = pos
-    subrows_ys.append((subrow_start, float('inf')))
+    # Filter out any items on the left_text which are below the CP on the right
+    right_y_center = _y_center_of_text(right_text[0]['bounds'])
+    filtered_left = [item for item in left_text if _y_center_of_text(item['bounds']) < right_y_center]
 
-    if len(subrows_ys) < 3:
-        raise Exception(f"Expected at least 3 subrows! Found {len(subrows_ys)}")
+    # Find a divider to split the left_text into name vs rank & level
+    y_centers = [_y_center_of_text(item['bounds']) for item in filtered_left]
+    y_centers.sort()
+    middle_y = (y_centers[0] + y_centers[-1]) / 2
 
-    subrows = [[] for idx in range(3)]
-    for item in row:
-        for row_idx, row_bounds in enumerate(subrows_ys):
-            if row_idx > 2:
-                continue
-            text_center = _center_of_text(item['bounds'])
-            if text_center >= row_bounds[0] and text_center < row_bounds[1]:
-                subrows[row_idx].append(item)
-    for subrow in subrows:
-        subrow.sort(key=lambda item: item['bounds'][X_MIN_COORD])
+    name = []
+    rank_level = []
+    for item in filtered_left:
+        text_center = _y_center_of_text(item['bounds'])
+        if text_center < middle_y:
+            name.append(item)
+        else:
+            rank_level.append(item)
+
+    name.sort(key=lambda item: item['bounds'][X_MIN_COORD])
+    rank_level.sort(key=lambda item: item['bounds'][X_MIN_COORD])
 
     result = [
         # Name
-        ' '.join([item['description'] for item in subrows[0]]),
+        ' '.join([item['description'] for item in name]),
     ]
     # Add Rank, omit Level
-    result.append(subrows[1][1]['description'])
+    result.append(rank_level[1]['description'])
 
     # CP
     # Fix up numeric issues by switching decimals to commas and Zs to 7s
-    result.append(' '.join([item['description'] for item in subrows[2]]).replace('Z', '7').replace('.', '').replace(',', ''))
+    result.append(' '.join([item['description'] for item in right_text]).replace('Z', '7').replace('.', '').replace(',', ''))
     return result
 
 
@@ -119,14 +134,18 @@ def parse_annotations(annotations):
 
     # Extract the min X from each row group and take the max among those
     # Filter any text which is more than PIXEL_MARGIN before that bound
+    # Also compute the max X for partitioning data as part of the text extraction
     min_x_bound = max([min([annotation['bounds'][X_MIN_COORD]
                             for annotation in group])
                        for group in row_groups])
     row_groups = [[annotation for annotation in group
                    if annotation['bounds'][X_MIN_COORD] > min_x_bound - PIXEL_MARGIN]
                   for group in row_groups]
+    max_x_bound = max([max([annotation['bounds'][X_MAX_COORD]
+                            for annotation in group])
+                       for group in row_groups])
 
-    return [_extract_row_text(row) for row in row_groups]
+    return [_extract_row_text(row, min_x_bound, max_x_bound) for row in row_groups]
 
 
 if __name__ == '__main__':

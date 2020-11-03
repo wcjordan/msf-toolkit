@@ -1,0 +1,1208 @@
+[
+  {
+    "description": "<< JOIN ALLIANCE\nUmbrella Academy\nY 1,055\nIf you are inactive for 3 days, you will be kicked.\nCOLLECTION POWER\nMEMBERS 24/24\nVA,\nTIV\nCOLLECTION POWER\nCommander poopoo\n75 Member\n7,047,155\nEnglish / M\u0101ori speaking only, must\nbe active - $10k and God keys daily.\n06/7lanes assignes, discord regd.\nMust wage war!\nCOLLECTION POWER\nKalank\n75 Captain\n6,966,823\nCOLLECTION POWER\nBuzz Kill\n75 Member\n6,816,549\nCOLLECTION POWER\nAllthatlies\n75 Member\n6,771,472\nCOLLECTION POWER\nWAR TIME\n8:00PM - Mon, Wed, Fri\nAce\n75 Member\n6,608,273\nCOLLECTION POWER\nDj17olek\n75 Member\n6,270,971\n\u00bb [MECH ] has upgraded Energy Bomb ability for Thanos to ability level 7!\n\u00bb [SNUCK ] has ranked up Invisible Woman to 7 Stars!\n",
+    "bounds": [
+      24,
+      2671,
+      22,
+      2041
+    ]
+  },
+  {
+    "description": "<<",
+    "bounds": [
+      24,
+      147,
+      22,
+      117
+    ]
+  },
+  {
+    "description": "JOIN",
+    "bounds": [
+      284,
+      390,
+      22,
+      117
+    ]
+  },
+  {
+    "description": "ALLIANCE",
+    "bounds": [
+      425,
+      706,
+      22,
+      117
+    ]
+  },
+  {
+    "description": "Umbrella",
+    "bounds": [
+      207,
+      417,
+      185,
+      246
+    ]
+  },
+  {
+    "description": "Academy",
+    "bounds": [
+      425,
+      645,
+      189,
+      251
+    ]
+  },
+  {
+    "description": "Y",
+    "bounds": [
+      366,
+      378,
+      253,
+      298
+    ]
+  },
+  {
+    "description": "1,055",
+    "bounds": [
+      402,
+      510,
+      252,
+      298
+    ]
+  },
+  {
+    "description": "If",
+    "bounds": [
+      1286,
+      1312,
+      223,
+      287
+    ]
+  },
+  {
+    "description": "you",
+    "bounds": [
+      1325,
+      1391,
+      223,
+      287
+    ]
+  },
+  {
+    "description": "are",
+    "bounds": [
+      1406,
+      1465,
+      223,
+      287
+    ]
+  },
+  {
+    "description": "inactive",
+    "bounds": [
+      1481,
+      1634,
+      221,
+      287
+    ]
+  },
+  {
+    "description": "for",
+    "bounds": [
+      1648,
+      1702,
+      222,
+      286
+    ]
+  },
+  {
+    "description": "3",
+    "bounds": [
+      1716,
+      1736,
+      221,
+      285
+    ]
+  },
+  {
+    "description": "days",
+    "bounds": [
+      1752,
+      1842,
+      221,
+      285
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      1848,
+      1853,
+      221,
+      285
+    ]
+  },
+  {
+    "description": "you",
+    "bounds": [
+      1868,
+      1934,
+      221,
+      285
+    ]
+  },
+  {
+    "description": "will",
+    "bounds": [
+      1948,
+      2016,
+      220,
+      284
+    ]
+  },
+  {
+    "description": "be",
+    "bounds": [
+      2032,
+      2074,
+      220,
+      284
+    ]
+  },
+  {
+    "description": "kicked",
+    "bounds": [
+      2087,
+      2214,
+      218,
+      284
+    ]
+  },
+  {
+    "description": ".",
+    "bounds": [
+      2224,
+      2234,
+      219,
+      283
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      901,
+      1134,
+      418,
+      479
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      1151,
+      1283,
+      418,
+      479
+    ]
+  },
+  {
+    "description": "MEMBERS",
+    "bounds": [
+      2206,
+      2477,
+      417,
+      485
+    ]
+  },
+  {
+    "description": "24/24",
+    "bounds": [
+      2508,
+      2671,
+      419,
+      486
+    ]
+  },
+  {
+    "description": "VA",
+    "bounds": [
+      308,
+      434,
+      414,
+      559
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      455,
+      497,
+      414,
+      559
+    ]
+  },
+  {
+    "description": "TIV",
+    "bounds": [
+      386,
+      439,
+      569,
+      610
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      2250,
+      2467,
+      578,
+      621
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      2474,
+      2605,
+      578,
+      621
+    ]
+  },
+  {
+    "description": "Commander",
+    "bounds": [
+      1122,
+      1449,
+      584,
+      667
+    ]
+  },
+  {
+    "description": "poopoo",
+    "bounds": [
+      1457,
+      1658,
+      594,
+      674
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      1120,
+      1176,
+      678,
+      726
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      1195,
+      1359,
+      678,
+      726
+    ]
+  },
+  {
+    "description": "7,047,155",
+    "bounds": [
+      2436,
+      2605,
+      696,
+      744
+    ]
+  },
+  {
+    "description": "English",
+    "bounds": [
+      105,
+      235,
+      658,
+      716
+    ]
+  },
+  {
+    "description": "/",
+    "bounds": [
+      242,
+      270,
+      658,
+      716
+    ]
+  },
+  {
+    "description": "M\u0101ori",
+    "bounds": [
+      274,
+      378,
+      658,
+      716
+    ]
+  },
+  {
+    "description": "speaking",
+    "bounds": [
+      384,
+      549,
+      658,
+      716
+    ]
+  },
+  {
+    "description": "only",
+    "bounds": [
+      557,
+      626,
+      658,
+      716
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      625,
+      639,
+      658,
+      716
+    ]
+  },
+  {
+    "description": "must",
+    "bounds": [
+      651,
+      747,
+      658,
+      716
+    ]
+  },
+  {
+    "description": "be",
+    "bounds": [
+      105,
+      155,
+      707,
+      762
+    ]
+  },
+  {
+    "description": "active",
+    "bounds": [
+      164,
+      271,
+      707,
+      764
+    ]
+  },
+  {
+    "description": "-",
+    "bounds": [
+      283,
+      294,
+      708,
+      763
+    ]
+  },
+  {
+    "description": "$",
+    "bounds": [
+      305,
+      321,
+      708,
+      763
+    ]
+  },
+  {
+    "description": "10k",
+    "bounds": [
+      336,
+      384,
+      708,
+      764
+    ]
+  },
+  {
+    "description": "and",
+    "bounds": [
+      393,
+      462,
+      709,
+      765
+    ]
+  },
+  {
+    "description": "God",
+    "bounds": [
+      467,
+      542,
+      710,
+      766
+    ]
+  },
+  {
+    "description": "keys",
+    "bounds": [
+      548,
+      634,
+      710,
+      767
+    ]
+  },
+  {
+    "description": "daily",
+    "bounds": [
+      645,
+      726,
+      711,
+      768
+    ]
+  },
+  {
+    "description": ".",
+    "bounds": [
+      736,
+      745,
+      712,
+      767
+    ]
+  },
+  {
+    "description": "06",
+    "bounds": [
+      114,
+      155,
+      762,
+      819
+    ]
+  },
+  {
+    "description": "/",
+    "bounds": [
+      172,
+      184,
+      762,
+      819
+    ]
+  },
+  {
+    "description": "7lanes",
+    "bounds": [
+      185,
+      309,
+      762,
+      819
+    ]
+  },
+  {
+    "description": "assignes",
+    "bounds": [
+      318,
+      482,
+      762,
+      819
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      474,
+      488,
+      762,
+      819
+    ]
+  },
+  {
+    "description": "discord",
+    "bounds": [
+      500,
+      639,
+      762,
+      819
+    ]
+  },
+  {
+    "description": "regd",
+    "bounds": [
+      644,
+      723,
+      762,
+      819
+    ]
+  },
+  {
+    "description": ".",
+    "bounds": [
+      717,
+      732,
+      762,
+      819
+    ]
+  },
+  {
+    "description": "Must",
+    "bounds": [
+      276,
+      367,
+      815,
+      864
+    ]
+  },
+  {
+    "description": "wage",
+    "bounds": [
+      378,
+      473,
+      816,
+      865
+    ]
+  },
+  {
+    "description": "war",
+    "bounds": [
+      486,
+      556,
+      817,
+      866
+    ]
+  },
+  {
+    "description": "!",
+    "bounds": [
+      555,
+      565,
+      818,
+      865
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      2249,
+      2463,
+      799,
+      845
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      2475,
+      2602,
+      800,
+      845
+    ]
+  },
+  {
+    "description": "Kalank",
+    "bounds": [
+      1121,
+      1308,
+      815,
+      876
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      1120,
+      1177,
+      892,
+      951
+    ]
+  },
+  {
+    "description": "Captain",
+    "bounds": [
+      1195,
+      1347,
+      894,
+      955
+    ]
+  },
+  {
+    "description": "6,966,823",
+    "bounds": [
+      2416,
+      2606,
+      915,
+      965
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      2249,
+      2462,
+      1020,
+      1065
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      2475,
+      2598,
+      1020,
+      1065
+    ]
+  },
+  {
+    "description": "Buzz",
+    "bounds": [
+      1119,
+      1247,
+      1036,
+      1098
+    ]
+  },
+  {
+    "description": "Kill",
+    "bounds": [
+      1258,
+      1352,
+      1035,
+      1096
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      1120,
+      1176,
+      1118,
+      1166
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      1195,
+      1359,
+      1118,
+      1166
+    ]
+  },
+  {
+    "description": "6,816,549",
+    "bounds": [
+      2425,
+      2605,
+      1135,
+      1186
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      2248,
+      2462,
+      1240,
+      1285
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      2474,
+      2598,
+      1240,
+      1285
+    ]
+  },
+  {
+    "description": "Allthatlies",
+    "bounds": [
+      1117,
+      1404,
+      1251,
+      1315
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      1120,
+      1177,
+      1336,
+      1385
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      1196,
+      1359,
+      1336,
+      1386
+    ]
+  },
+  {
+    "description": "6,771,472",
+    "bounds": [
+      2442,
+      2605,
+      1354,
+      1405
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      2250,
+      2467,
+      1459,
+      1502
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      2474,
+      2605,
+      1460,
+      1503
+    ]
+  },
+  {
+    "description": "WAR",
+    "bounds": [
+      341,
+      424,
+      1496,
+      1540
+    ]
+  },
+  {
+    "description": "TIME",
+    "bounds": [
+      434,
+      518,
+      1496,
+      1540
+    ]
+  },
+  {
+    "description": "8:00",
+    "bounds": [
+      197,
+      288,
+      1550,
+      1603
+    ]
+  },
+  {
+    "description": "PM",
+    "bounds": [
+      296,
+      353,
+      1550,
+      1603
+    ]
+  },
+  {
+    "description": "-",
+    "bounds": [
+      365,
+      377,
+      1550,
+      1603
+    ]
+  },
+  {
+    "description": "Mon",
+    "bounds": [
+      389,
+      464,
+      1550,
+      1603
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      466,
+      478,
+      1550,
+      1603
+    ]
+  },
+  {
+    "description": "Wed",
+    "bounds": [
+      498,
+      577,
+      1551,
+      1604
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      576,
+      589,
+      1551,
+      1604
+    ]
+  },
+  {
+    "description": "Fri",
+    "bounds": [
+      605,
+      659,
+      1551,
+      1604
+    ]
+  },
+  {
+    "description": "Ace",
+    "bounds": [
+      1118,
+      1225,
+      1474,
+      1536
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      1119,
+      1177,
+      1557,
+      1607
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      1194,
+      1360,
+      1557,
+      1607
+    ]
+  },
+  {
+    "description": "6,608,273",
+    "bounds": [
+      2420,
+      2605,
+      1574,
+      1624
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      2249,
+      2467,
+      1682,
+      1727
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      2473,
+      2605,
+      1682,
+      1727
+    ]
+  },
+  {
+    "description": "Dj17olek",
+    "bounds": [
+      1122,
+      1343,
+      1694,
+      1771
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      1120,
+      1175,
+      1778,
+      1826
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      1195,
+      1359,
+      1778,
+      1827
+    ]
+  },
+  {
+    "description": "6,270,971",
+    "bounds": [
+      2437,
+      2606,
+      1796,
+      1845
+    ]
+  },
+  {
+    "description": "\u00bb",
+    "bounds": [
+      319,
+      339,
+      1898,
+      1969
+    ]
+  },
+  {
+    "description": "[",
+    "bounds": [
+      410,
+      419,
+      1898,
+      1969
+    ]
+  },
+  {
+    "description": "MECH",
+    "bounds": [
+      436,
+      539,
+      1898,
+      1969
+    ]
+  },
+  {
+    "description": "]",
+    "bounds": [
+      558,
+      565,
+      1898,
+      1969
+    ]
+  },
+  {
+    "description": "has",
+    "bounds": [
+      584,
+      647,
+      1898,
+      1969
+    ]
+  },
+  {
+    "description": "upgraded",
+    "bounds": [
+      664,
+      847,
+      1898,
+      1969
+    ]
+  },
+  {
+    "description": "Energy",
+    "bounds": [
+      866,
+      997,
+      1898,
+      1969
+    ]
+  },
+  {
+    "description": "Bomb",
+    "bounds": [
+      1014,
+      1123,
+      1898,
+      1969
+    ]
+  },
+  {
+    "description": "ability",
+    "bounds": [
+      1140,
+      1259,
+      1898,
+      1969
+    ]
+  },
+  {
+    "description": "for",
+    "bounds": [
+      1274,
+      1327,
+      1898,
+      1969
+    ]
+  },
+  {
+    "description": "Thanos",
+    "bounds": [
+      1342,
+      1479,
+      1898,
+      1969
+    ]
+  },
+  {
+    "description": "to",
+    "bounds": [
+      1494,
+      1531,
+      1898,
+      1969
+    ]
+  },
+  {
+    "description": "ability",
+    "bounds": [
+      1548,
+      1667,
+      1898,
+      1969
+    ]
+  },
+  {
+    "description": "level",
+    "bounds": [
+      1684,
+      1771,
+      1898,
+      1969
+    ]
+  },
+  {
+    "description": "7",
+    "bounds": [
+      1788,
+      1808,
+      1898,
+      1969
+    ]
+  },
+  {
+    "description": "!",
+    "bounds": [
+      1810,
+      1823,
+      1898,
+      1969
+    ]
+  },
+  {
+    "description": "\u00bb",
+    "bounds": [
+      319,
+      339,
+      1970,
+      2041
+    ]
+  },
+  {
+    "description": "[",
+    "bounds": [
+      410,
+      427,
+      1970,
+      2041
+    ]
+  },
+  {
+    "description": "SNUCK",
+    "bounds": [
+      434,
+      561,
+      1970,
+      2041
+    ]
+  },
+  {
+    "description": "]",
+    "bounds": [
+      576,
+      585,
+      1970,
+      2041
+    ]
+  },
+  {
+    "description": "has",
+    "bounds": [
+      604,
+      667,
+      1970,
+      2041
+    ]
+  },
+  {
+    "description": "ranked",
+    "bounds": [
+      684,
+      817,
+      1970,
+      2041
+    ]
+  },
+  {
+    "description": "up",
+    "bounds": [
+      834,
+      877,
+      1970,
+      2041
+    ]
+  },
+  {
+    "description": "Invisible",
+    "bounds": [
+      894,
+      1053,
+      1970,
+      2041
+    ]
+  },
+  {
+    "description": "Woman",
+    "bounds": [
+      1068,
+      1215,
+      1970,
+      2041
+    ]
+  },
+  {
+    "description": "to",
+    "bounds": [
+      1230,
+      1267,
+      1970,
+      2041
+    ]
+  },
+  {
+    "description": "7",
+    "bounds": [
+      1282,
+      1299,
+      1970,
+      2041
+    ]
+  },
+  {
+    "description": "Stars",
+    "bounds": [
+      1314,
+      1413,
+      1970,
+      2041
+    ]
+  },
+  {
+    "description": "!",
+    "bounds": [
+      1422,
+      1425,
+      1970,
+      2041
+    ]
+  }
+]
