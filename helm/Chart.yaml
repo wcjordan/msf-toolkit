@@ -3,4 +3,4 @@ name: flipperbot
 description: A Helm chart for deploying the msf-toolkit Discord bot
 type: application
 version: 0.2.0
-appVersion: 0.2.0
+appVersion: 0.2.1

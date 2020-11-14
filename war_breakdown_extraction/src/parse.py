@@ -80,6 +80,21 @@ def _partition_left_right(row, min_x_bound, max_x_bound):
     x_start_divider = (min_x_bound + max_x_bound) / 2
     left_text = [item for item in row if item['bounds'][X_MIN_COORD] < x_start_divider]
     right_text = [item for item in row if item['bounds'][X_MIN_COORD] >= x_start_divider]
+
+    if len(right_text) == 3 and right_text[1]['description'] == ',':
+        descriptions = [item['description'] for item in right_text]
+        bounds = [item['bounds'] for item in right_text]
+        right_text = [{
+            'description': ''.join(descriptions),
+            'bounds':[
+                min([item[X_MIN_COORD] for item in bounds]),
+                max([item[X_MAX_COORD] for item in bounds]),
+                min([item[Y_MIN_COORD] for item in bounds]),
+                max([item[Y_MAX_COORD] for item in bounds]),
+            ],
+        }]
+        print(left_text)
+        print(right_text)
     assert len(right_text) == 1
 
     return left_text, right_text

@@ -1,0 +1,1118 @@
+[
+  {
+    "description": "<< JOIN ALLIANCE\nG\nClean Slayte\n1,045\nIf you are inactive for 14 days, you will be kicked.\nCOLLECTION POWER\nMEMBERS 24/24\nTIV\nCOLLECTION POWER\nLil Twixx\n75 Captain\n7,573,290\nAragtag team of heroic warriors.\nRelentless in their conquest of\ndefeating evil, and whoever stands\nin their way of victory. They also\nCOLLECTION POWER\nMCKINGLY\n75 Member\n7,511,247\nCOLLECTION POWER\nverobaseball\n75 Member\n7, 118,689\nCOLLECTION POWER\nSwagg\n75 Member\n7,029,785\nCOLLECTION POWER\nWAR TIME\n7:00PM - Mon, Wed, Fri\nRob\n75 Captain\n6,876,045\nCOLLECTION POWER\ndupa\n75 Member\n6,850,521\n\u00bb [WOLVES ] has reached Gear Tier 12 for Hawkeye!\n\u00bb [GENERALSJOES ] has reached Gear Tier 12 for Ghost!\n",
+    "bounds": [
+      24,
+      2705,
+      14,
+      2039
+    ]
+  },
+  {
+    "description": "<<",
+    "bounds": [
+      24,
+      147,
+      14,
+      125
+    ]
+  },
+  {
+    "description": "JOIN",
+    "bounds": [
+      290,
+      398,
+      14,
+      125
+    ]
+  },
+  {
+    "description": "ALLIANCE",
+    "bounds": [
+      430,
+      707,
+      14,
+      125
+    ]
+  },
+  {
+    "description": "G",
+    "bounds": [
+      2594,
+      2705,
+      22,
+      114
+    ]
+  },
+  {
+    "description": "Clean",
+    "bounds": [
+      202,
+      403,
+      171,
+      251
+    ]
+  },
+  {
+    "description": "Slayte",
+    "bounds": [
+      422,
+      651,
+      176,
+      257
+    ]
+  },
+  {
+    "description": "1,045",
+    "bounds": [
+      402,
+      510,
+      253,
+      299
+    ]
+  },
+  {
+    "description": "If",
+    "bounds": [
+      1278,
+      1304,
+      223,
+      288
+    ]
+  },
+  {
+    "description": "you",
+    "bounds": [
+      1317,
+      1383,
+      223,
+      288
+    ]
+  },
+  {
+    "description": "are",
+    "bounds": [
+      1398,
+      1457,
+      223,
+      288
+    ]
+  },
+  {
+    "description": "inactive",
+    "bounds": [
+      1473,
+      1626,
+      221,
+      288
+    ]
+  },
+  {
+    "description": "for",
+    "bounds": [
+      1640,
+      1694,
+      222,
+      287
+    ]
+  },
+  {
+    "description": "14",
+    "bounds": [
+      1707,
+      1746,
+      221,
+      286
+    ]
+  },
+  {
+    "description": "days",
+    "bounds": [
+      1760,
+      1850,
+      221,
+      286
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      1856,
+      1861,
+      221,
+      286
+    ]
+  },
+  {
+    "description": "you",
+    "bounds": [
+      1876,
+      1943,
+      220,
+      286
+    ]
+  },
+  {
+    "description": "will",
+    "bounds": [
+      1956,
+      2024,
+      220,
+      285
+    ]
+  },
+  {
+    "description": "be",
+    "bounds": [
+      2040,
+      2082,
+      220,
+      285
+    ]
+  },
+  {
+    "description": "kicked",
+    "bounds": [
+      2097,
+      2227,
+      218,
+      285
+    ]
+  },
+  {
+    "description": ".",
+    "bounds": [
+      2223,
+      2236,
+      219,
+      284
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      905,
+      1132,
+      417,
+      479
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      1150,
+      1284,
+      417,
+      479
+    ]
+  },
+  {
+    "description": "MEMBERS",
+    "bounds": [
+      2206,
+      2475,
+      417,
+      485
+    ]
+  },
+  {
+    "description": "24/24",
+    "bounds": [
+      2508,
+      2671,
+      419,
+      486
+    ]
+  },
+  {
+    "description": "TIV",
+    "bounds": [
+      378,
+      445,
+      569,
+      611
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      2249,
+      2463,
+      572,
+      618
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      2475,
+      2602,
+      573,
+      619
+    ]
+  },
+  {
+    "description": "Lil",
+    "bounds": [
+      1122,
+      1191,
+      581,
+      645
+    ]
+  },
+  {
+    "description": "Twixx",
+    "bounds": [
+      1208,
+      1361,
+      581,
+      645
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      1120,
+      1177,
+      662,
+      723
+    ]
+  },
+  {
+    "description": "Captain",
+    "bounds": [
+      1194,
+      1347,
+      664,
+      727
+    ]
+  },
+  {
+    "description": "7,573,290",
+    "bounds": [
+      2425,
+      2606,
+      688,
+      738
+    ]
+  },
+  {
+    "description": "Aragtag",
+    "bounds": [
+      125,
+      278,
+      661,
+      714
+    ]
+  },
+  {
+    "description": "team",
+    "bounds": [
+      288,
+      378,
+      660,
+      712
+    ]
+  },
+  {
+    "description": "of",
+    "bounds": [
+      393,
+      431,
+      660,
+      711
+    ]
+  },
+  {
+    "description": "heroic",
+    "bounds": [
+      432,
+      540,
+      658,
+      711
+    ]
+  },
+  {
+    "description": "warriors",
+    "bounds": [
+      556,
+      708,
+      657,
+      710
+    ]
+  },
+  {
+    "description": ".",
+    "bounds": [
+      704,
+      715,
+      657,
+      708
+    ]
+  },
+  {
+    "description": "Relentless",
+    "bounds": [
+      148,
+      341,
+      707,
+      762
+    ]
+  },
+  {
+    "description": "in",
+    "bounds": [
+      350,
+      383,
+      710,
+      762
+    ]
+  },
+  {
+    "description": "their",
+    "bounds": [
+      394,
+      478,
+      710,
+      764
+    ]
+  },
+  {
+    "description": "conquest",
+    "bounds": [
+      484,
+      655,
+      711,
+      766
+    ]
+  },
+  {
+    "description": "of",
+    "bounds": [
+      661,
+      704,
+      713,
+      766
+    ]
+  },
+  {
+    "description": "defeating",
+    "bounds": [
+      111,
+      284,
+      762,
+      817
+    ]
+  },
+  {
+    "description": "evil",
+    "bounds": [
+      291,
+      357,
+      762,
+      815
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      349,
+      361,
+      762,
+      815
+    ]
+  },
+  {
+    "description": "and",
+    "bounds": [
+      373,
+      442,
+      762,
+      815
+    ]
+  },
+  {
+    "description": "whoever",
+    "bounds": [
+      452,
+      607,
+      760,
+      815
+    ]
+  },
+  {
+    "description": "stands",
+    "bounds": [
+      611,
+      738,
+      759,
+      814
+    ]
+  },
+  {
+    "description": "in",
+    "bounds": [
+      134,
+      166,
+      814,
+      868
+    ]
+  },
+  {
+    "description": "their",
+    "bounds": [
+      177,
+      261,
+      814,
+      868
+    ]
+  },
+  {
+    "description": "way",
+    "bounds": [
+      264,
+      345,
+      814,
+      868
+    ]
+  },
+  {
+    "description": "of",
+    "bounds": [
+      353,
+      395,
+      814,
+      868
+    ]
+  },
+  {
+    "description": "victory",
+    "bounds": [
+      401,
+      516,
+      814,
+      868
+    ]
+  },
+  {
+    "description": ".",
+    "bounds": [
+      519,
+      532,
+      814,
+      868
+    ]
+  },
+  {
+    "description": "They",
+    "bounds": [
+      548,
+      630,
+      814,
+      868
+    ]
+  },
+  {
+    "description": "also",
+    "bounds": [
+      638,
+      715,
+      814,
+      868
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      2253,
+      2464,
+      792,
+      837
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      2478,
+      2602,
+      792,
+      837
+    ]
+  },
+  {
+    "description": "MCKINGLY",
+    "bounds": [
+      1121,
+      1398,
+      809,
+      867
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      1120,
+      1176,
+      890,
+      939
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      1195,
+      1359,
+      890,
+      939
+    ]
+  },
+  {
+    "description": "7,511,247",
+    "bounds": [
+      2444,
+      2606,
+      907,
+      957
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      2253,
+      2464,
+      1012,
+      1057
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      2478,
+      2602,
+      1012,
+      1057
+    ]
+  },
+  {
+    "description": "verobaseball",
+    "bounds": [
+      1126,
+      1477,
+      1024,
+      1091
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      1120,
+      1177,
+      1106,
+      1159
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      1194,
+      1359,
+      1106,
+      1159
+    ]
+  },
+  {
+    "description": "7",
+    "bounds": [
+      2440,
+      2454,
+      1126,
+      1173
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      2455,
+      2466,
+      1126,
+      1173
+    ]
+  },
+  {
+    "description": "118,689",
+    "bounds": [
+      2474,
+      2605,
+      1125,
+      1174
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      2253,
+      2464,
+      1231,
+      1278
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      2478,
+      2602,
+      1233,
+      1279
+    ]
+  },
+  {
+    "description": "Swagg",
+    "bounds": [
+      1122,
+      1307,
+      1248,
+      1320
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      1120,
+      1177,
+      1328,
+      1381
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      1194,
+      1359,
+      1328,
+      1381
+    ]
+  },
+  {
+    "description": "7,029,785",
+    "bounds": [
+      2425,
+      2604,
+      1346,
+      1397
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      2250,
+      2467,
+      1451,
+      1496
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      2474,
+      2605,
+      1453,
+      1497
+    ]
+  },
+  {
+    "description": "WAR",
+    "bounds": [
+      341,
+      424,
+      1496,
+      1540
+    ]
+  },
+  {
+    "description": "TIME",
+    "bounds": [
+      434,
+      518,
+      1496,
+      1540
+    ]
+  },
+  {
+    "description": "7:00",
+    "bounds": [
+      198,
+      280,
+      1550,
+      1605
+    ]
+  },
+  {
+    "description": "PM",
+    "bounds": [
+      289,
+      350,
+      1550,
+      1605
+    ]
+  },
+  {
+    "description": "-",
+    "bounds": [
+      362,
+      374,
+      1550,
+      1605
+    ]
+  },
+  {
+    "description": "Mon",
+    "bounds": [
+      386,
+      463,
+      1550,
+      1605
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      465,
+      477,
+      1550,
+      1605
+    ]
+  },
+  {
+    "description": "Wed",
+    "bounds": [
+      495,
+      575,
+      1550,
+      1605
+    ]
+  },
+  {
+    "description": ",",
+    "bounds": [
+      573,
+      586,
+      1550,
+      1605
+    ]
+  },
+  {
+    "description": "Fri",
+    "bounds": [
+      601,
+      656,
+      1550,
+      1605
+    ]
+  },
+  {
+    "description": "Rob",
+    "bounds": [
+      1121,
+      1224,
+      1468,
+      1527
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      1119,
+      1177,
+      1544,
+      1604
+    ]
+  },
+  {
+    "description": "Captain",
+    "bounds": [
+      1195,
+      1347,
+      1546,
+      1607
+    ]
+  },
+  {
+    "description": "6,876,045",
+    "bounds": [
+      2420,
+      2604,
+      1568,
+      1616
+    ]
+  },
+  {
+    "description": "COLLECTION",
+    "bounds": [
+      2248,
+      2464,
+      1671,
+      1715
+    ]
+  },
+  {
+    "description": "POWER",
+    "bounds": [
+      2478,
+      2600,
+      1673,
+      1716
+    ]
+  },
+  {
+    "description": "dupa",
+    "bounds": [
+      1119,
+      1251,
+      1684,
+      1754
+    ]
+  },
+  {
+    "description": "75",
+    "bounds": [
+      1120,
+      1176,
+      1767,
+      1823
+    ]
+  },
+  {
+    "description": "Member",
+    "bounds": [
+      1195,
+      1359,
+      1767,
+      1823
+    ]
+  },
+  {
+    "description": "6,850,521",
+    "bounds": [
+      2426,
+      2606,
+      1789,
+      1837
+    ]
+  },
+  {
+    "description": "\u00bb",
+    "bounds": [
+      322,
+      342,
+      1900,
+      1969
+    ]
+  },
+  {
+    "description": "[",
+    "bounds": [
+      410,
+      419,
+      1900,
+      1969
+    ]
+  },
+  {
+    "description": "WOLVES",
+    "bounds": [
+      434,
+      589,
+      1900,
+      1969
+    ]
+  },
+  {
+    "description": "]",
+    "bounds": [
+      606,
+      615,
+      1900,
+      1969
+    ]
+  },
+  {
+    "description": "has",
+    "bounds": [
+      632,
+      697,
+      1900,
+      1969
+    ]
+  },
+  {
+    "description": "reached",
+    "bounds": [
+      714,
+      867,
+      1900,
+      1969
+    ]
+  },
+  {
+    "description": "Gear",
+    "bounds": [
+      886,
+      973,
+      1900,
+      1969
+    ]
+  },
+  {
+    "description": "Tier",
+    "bounds": [
+      986,
+      1059,
+      1900,
+      1969
+    ]
+  },
+  {
+    "description": "12",
+    "bounds": [
+      1074,
+      1109,
+      1900,
+      1969
+    ]
+  },
+  {
+    "description": "for",
+    "bounds": [
+      1124,
+      1177,
+      1900,
+      1969
+    ]
+  },
+  {
+    "description": "Hawkeye",
+    "bounds": [
+      1194,
+      1377,
+      1900,
+      1969
+    ]
+  },
+  {
+    "description": "!",
+    "bounds": [
+      1371,
+      1386,
+      1900,
+      1969
+    ]
+  },
+  {
+    "description": "\u00bb",
+    "bounds": [
+      323,
+      341,
+      1976,
+      2039
+    ]
+  },
+  {
+    "description": "[",
+    "bounds": [
+      410,
+      419,
+      1976,
+      2039
+    ]
+  },
+  {
+    "description": "GENERALSJOES",
+    "bounds": [
+      436,
+      725,
+      1976,
+      2039
+    ]
+  },
+  {
+    "description": "]",
+    "bounds": [
+      744,
+      751,
+      1976,
+      2039
+    ]
+  },
+  {
+    "description": "has",
+    "bounds": [
+      770,
+      833,
+      1976,
+      2039
+    ]
+  },
+  {
+    "description": "reached",
+    "bounds": [
+      850,
+      1005,
+      1976,
+      2039
+    ]
+  },
+  {
+    "description": "Gear",
+    "bounds": [
+      1024,
+      1109,
+      1976,
+      2039
+    ]
+  },
+  {
+    "description": "Tier",
+    "bounds": [
+      1124,
+      1195,
+      1976,
+      2039
+    ]
+  },
+  {
+    "description": "12",
+    "bounds": [
+      1212,
+      1245,
+      1976,
+      2039
+    ]
+  },
+  {
+    "description": "for",
+    "bounds": [
+      1262,
+      1315,
+      1976,
+      2039
+    ]
+  },
+  {
+    "description": "Ghost",
+    "bounds": [
+      1324,
+      1448,
+      1976,
+      2039
+    ]
+  },
+  {
+    "description": "!",
+    "bounds": [
+      1449,
+      1465,
+      1976,
+      2039
+    ]
+  }
+]
