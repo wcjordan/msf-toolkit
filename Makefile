@@ -12,7 +12,7 @@ start:
 
 # Deploy
 .PHONY: deploy
-deploy:
+deploy: build
 	docker push gcr.io/flipperkid-default/msf-toolkit-bot:latest
 	helm upgrade --install msf-toolkit helm
 	cd war_breakdown_extraction/src; gcloud functions deploy extract_war_breakdown \

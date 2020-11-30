@@ -8,8 +8,14 @@ from datetime import date
 import discord
 from dotenv import load_dotenv
 from google.cloud import pubsub_v1, storage
+import sentry_sdk
 
 load_dotenv()
+sentry_sdk.init(
+    os.getenv('SENTRY_URL'),
+    traces_sample_rate=1.0
+)
+
 TOKEN = os.getenv('DISCORD_TOKEN')
 GUILD = os.getenv('DISCORD_GUILD')
 CHANNEL = os.getenv('DISCORD_CHANNEL')
@@ -17,6 +23,11 @@ CHANNEL = os.getenv('DISCORD_CHANNEL')
 discord_client = discord.Client()
 storage_client = storage.Client()
 subscriber = pubsub_v1.SubscriberClient()
+
+
+@discord_client.event
+async def on_error(event, *args, **kwargs):
+    raise
 
 
 def _get_channel():
@@ -38,7 +49,7 @@ def _handle_results(message):
 
     channel = _get_channel()
     if not channel:
-        print(f'Unable to find channel {GUILD}#{CHANNEL}')
+        raise Exception(f'Unable to find channel {GUILD}#{CHANNEL}')
 
     discord_client.loop.create_task(channel.send(text))
     message.ack()
@@ -73,8 +84,7 @@ def _upload_attachment_to_bucket(filename, data):
 async def on_ready():
     channel = _get_channel()
     if not channel:
-        print(f'Unable to find channel {GUILD}#{CHANNEL}')
-        sys.exit()
+        raise Exception(f'Unable to find channel {GUILD}#{CHANNEL}')
 
     print(f'{discord_client.user} has connected to {GUILD}#{channel.name}!')
     _subscribe_to_results()

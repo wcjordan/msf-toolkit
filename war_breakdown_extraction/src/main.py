@@ -1,12 +1,23 @@
 import csv
 import io
 import json
+import os
 from datetime import date
 
+from dotenv import load_dotenv
 from google.cloud import pubsub_v1, storage, vision
+import sentry_sdk
+from sentry_sdk.integrations.gcp import GcpIntegration
 
 from parse import parse_annotations
 from vision_api import text_detection
+
+load_dotenv()
+sentry_sdk.init(
+    os.getenv('SENTRY_URL'),
+    integrations=[GcpIntegration()],
+    traces_sample_rate=1.0
+)
 
 publisher = pubsub_v1.PublisherClient()
 storage_client = storage.Client()
